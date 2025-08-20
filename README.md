@@ -60,3 +60,5 @@ CityVerse/
 
 ## License
 MIT
+
+This is a test update for the Coursera assignment.
